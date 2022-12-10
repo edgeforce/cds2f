@@ -1,2 +1,3 @@
 # cds2f
-Convert Cadence Allegro .brd files to Fabmaster
+Generate Allegro to fabmaster file
+ 
